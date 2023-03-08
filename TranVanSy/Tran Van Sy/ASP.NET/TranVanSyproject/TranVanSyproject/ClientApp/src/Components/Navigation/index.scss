@@ -1,0 +1,49 @@
+.nav {
+    height: 108px;
+    padding:25px 0px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.nav .nav-logo {
+    float: left;
+    height: 62px;
+    width: 62px;
+}
+
+.nav .nav-items {
+    float: left;
+}
+
+.nav{
+    .ShowMenu{
+        display: none;
+    }
+}
+
+.nav .nav-item {
+    display: inline-block;
+    padding: 17px 24px;
+}
+@media only screen and (min-width:390px) and (max-width:584px){
+    .nav{
+        margin-bottom: 10px;
+        .nav-items{
+            .nav-item{
+                font-size: 16px;
+                padding: 12px;
+            }
+        }
+    }
+}
+@media only screen and (max-width:390px){
+    .nav{
+        margin-bottom: 33px;
+        .nav-items{
+            .nav-item{
+                font-size: 13px;
+                padding: 12px;
+            }
+        }
+    }
+}

@@ -1,0 +1,121 @@
+.wrraperLink{
+    width: 100%;
+    .wrraperLink__content-top{
+        width: 100%;
+        display: flex;
+    }
+    .wrraperLink__content-between{
+        width: 100%;
+        display: flex;
+        margin-top: 3px;
+    }
+    .wrraperLink__content-bottom{
+        width: 100%;
+        display: flex;
+        margin-top: 3px;
+    }
+    .wrraperlink__title{
+        width: 167px;
+        height: 32px;
+        font-size: 24px;
+        font-weight: 600;
+        color: #444444;
+        margin-bottom: 18px;
+    }
+    .wrraperLink__content{
+        display: flex;
+        flex-wrap: wrap;
+        flex-grow: 3;
+    }
+}
+.props__link{
+    width: 136px;
+    height: 136px;
+    margin-right: 3px;
+
+    background-color:#0074bd ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .props__link-wrrap{
+        .props__link-wrrap-img-first{
+            display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-bottom: 22px;
+            .props__link-wrrap-img{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 37px;
+                width: 45px;
+                .props__link-img{
+                object-fit: cover;
+                
+                }
+            }
+        }
+        .props__link-wrrap-text{
+            display: flex;
+            justify-content: center;
+            .props__link-text{
+                font-size: 14px;
+                color:#FFFFFF
+            }
+        }
+}    
+}
+@media only screen and (min-width:820px) and (max-width:1000px){
+    .props__link{
+        height: 100px;
+        .props__link-wrrap{
+            .props__link-wrrap-img-first{
+                margin-bottom: 10px;
+            }
+            .props__link-wrrap-text{
+                .props__link-text{
+                    font-size: 12px;
+                }
+            }
+        }
+    }
+}
+@media only screen and (min-width:600px) and (max-width:819px){
+    .props__link{
+        width: 210px;
+        height: 108px;
+    }
+    .wrraperLink{
+        width: 80%;
+        margin: auto;
+    }
+}
+@media only screen and (min-width:550px) and (max-width:649px) {
+    .props__link{
+        width: 210px;
+        height: 108px;
+    }
+    .wrraperLink{
+        width: 80%;
+        margin: auto;
+    }
+}
+@media only screen  and (max-width:554px){
+    .props__link{
+        width: 210px;
+        height: 87px;
+        .props__link-wrrap{
+        .props__link-wrrap-img-first{
+             margin-bottom: 6px;
+            }
+        }
+    }
+    .wrraperLink{
+        width: 80%;
+        margin: auto;
+    }
+}
+@media only screen and (min-width:278px) and (max-width:419px){
+    .wrraperLink{
+        width: 100%;
+}}

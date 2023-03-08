@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My CV</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="./asset/css/cv_base.css">
+    <link rel="stylesheet" href="./asset/css/cv_main.css">
+    <link rel="stylesheet" href="./asset/css/cv_mobile.css">
+    <link rel="stylesheet" href="./asset/css/cv_ipad.css">
+    <link rel="stylesheet" href="../form/asset/css/form_base.css">
+    <link rel="stylesheet" href="../form/asset/css/form_main.css">
+    <link rel="stylesheet" href="../form/asset/css/form_mobile.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap">
+    <link rel="stylesheet" href="./asset/font/fontawesome-free-6.1.2-web/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="https://tse2.mm.bing.net/th?q=Ave+Point+Icon&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-SG&cc=SG&setlang=en&adlt=strict&t=1&mw=247">
+    <link rel="stylesheet" href="./asset/img/img_james_tran.jpg">
+</head>
+<body>
+    <div class="container__cv">
+        
+        <section class="general__information">
+            <i id="bottom-write-left" class="fa-sharp fa-solid fa-pen-to-square"></i>
+            <div class="general__information-head">
+                
+                <div class="content__mobile-ipad">
+                    <p class="name__mobile">JAMES TRAN FIEDLS</p>
+                    <P class="content__job applied__mobile">WEB DEVELOPER</P>
+                </div>
+            </div>
+            <div class="general__information-padding">
+                <div class="image">
+                    <img src="../../2.HTML + CSS/cv/asset/img/default_image.jpg" alt="" class="img" id="output">
+                    <label for="imageFile" class="img__overlay">
+                        <label for="imageFile"><i class="fa-solid fa-camera camera"></i></label>
+                    </label>
+                </div>
+                <input type="file"  name="" id="imageFile" accept="image/gif, imageg/jpeg, image/png" onchange="loadFile(event)"/>
+            </div>
+            <div class="general__information-body">
+                <div class="general__information-body-mobile">
+                    <div class="general__information-body-ipad-left general__information-body-ipad">
+                        <div class="contact">
+                            <Span class="text__view contact__location">Contact</Span>
+                            <ul class="contact__list">
+                                <li class="contact__element">
+                                    <i class="fa-solid fa-phone color__icon"></i>
+                                    <span class="text__view phone">0365738184</span>
+                                </li>
+                                <li class="contact__element">
+                                    <i class="fa-solid fa-envelope color__icon"></i>
+                                    <Span class="text__view email">James.Tran@avepoint.com</Span>
+                                </li>
+                                <li class="contact__element">
+                                    <i class="fa-solid fa-location-dot color__icon"></i>
+                                    <Span class="text__view address">197 De To Hoang-Hai Ba Trung-TP Ha Noi</Span>
+                                </li>
+                                <li class="contact__element">
+                                    <i class="fa-solid fa-globe color__icon"></i>
+                                    <Span class="text__view"> https://git.avepoint.net/james.tran</Span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="social-account">
+                            <Span class="text__view social-account__location ">Social Account</Span>
+                            <ul class="social-account__list">
+                                <div class="social-account__list-mobile">
+                                    <li class="social-account__element">
+                                        <i class="fa-brands fa-facebook color__icon"></i>
+                                        <a href="https://www.facebook.com/sytranhd" class="social-account__element-link text__view">fb/mylinkhere</a>
+                                    </li>
+                                    <li class="social-account__element">
+                                        <i class="fa-brands fa-instagram color__icon"></i>
+                                        <a href="https://www.facebook.com/sytranhd" class="social-account__element-link text__view">ins/mylinkhere</a>
+                                    </li>
+                                </div>
+                                <div class="social-account__list-mobile">
+                                    <li class="social-account__element">
+                                        <i class="fa-brands fa-square-twitter color__icon"></i>
+                                        <a href="https://www.facebook.com/sytranhd" class="social-account__element-link text__view">twi/mylinkhere</a>
+                                    </li>
+                                    <li class="social-account__element">
+                                        <i class="fa-brands fa-invision color__icon"></i>
+                                        <a href="https://www.facebook.com/sytranhd" class="social-account__element-link text__view">in/mylinkhere</a>
+                                    </li>
+                                </div>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="general__information-body-ipad-right general__information-body-ipad">
+                        <div class="skill">
+                            <span class="text__view skill__location">Skill</span>
+                            <div class="skill__element">
+                                <div class="skill__text">
+                                    <span>HTML</span><br>
+                                    <span>JAVA SCRIPT</span><br>
+                                    <span>PHP</span><br>
+                                    <span>CSS3</span><br>
+                                    <span>WORD PRESSS</span><br>
+                                </div>
+                                <div class="star">
+                                    <div class="star__icon">
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                    </div>
+                                    <div class="star__icon">
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                    </div>
+                                    <div class="star__icon">
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                    </div>
+                                    <div class="star__icon">
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                    </div>
+                                    <div class="star__icon">
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__bland"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                        <i class="fa-solid fa-star star__dark"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="hobby">
+                            <span class="text__view hobby__location">Hobby</span>
+                            <ul class="hobby__list">
+                                <div class="hobby__rpp">
+                                    <li class="hobby__rpp-reading">
+                                        <i class="fa-solid fa-book-open color__icon"></i>
+                                        <!-- <img src="./asset/font//fontawesome-free-6.1.2-web/svgs/solid/book-open.svg" -->
+                                        <span class="text__view">Reading</span>
+                                    </li>
+                                    <li class="hobby__rpp-reading">
+                                        <i class="fa-solid fa-palette color__icon"></i>
+                                        <span class="text__view">Painting</span>
+                                    </li>
+                                    <li class="hobby__rpp-reading">
+                                        <i class="fa-brands fa-playstation color__icon"></i>
+                                        <span class="text__view">Playing</span>
+                                    </li>
+                                </div>
+                                <div class="hobby__ctg">
+                                    <li class="hobby__ctg-cycleing">
+                                        <i class="fa-solid fa-bicycle color__icon"></i>
+                                        <span class="text__view">Cycleing</span>
+                                    </li>
+                                    <li class="hobby__ctg-cycleing">
+                                        <i class="fa-solid fa-bus color__icon"></i>
+                                        <span class="text__view">Travelling</span>
+                                    </li>
+                                    <li class="hobby__ctg-cycleing">
+                                        <i class="fa-solid fa-worm color__icon"></i>
+                                        <span class="text__view"S>Gardenling</span>
+                                    </li>
+                                </div>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="general__information-padding-end"></div>
+            <div class="general__information-end"></div>
+        </section>
+        <section class="detail__information">
+            <i id="bottom-write-right" class="fa-sharp fa-solid fa-pen-to-square"></i>
+            <div class="content">
+                <p class="name">JAMES TRAN FIEDLS</p>
+                <P class="content__job applied">WEB DEVELOPER</P>
+            </div>
+            <div class="profile">
+                <span class="content__information profile__underlined">Profile</span>
+                <p class="content__text">My name is James Tran, I'm 23 years old. icome from Hai Duong city. Currently, I am a student of electronics and telecommunications engineering at Hanoi university of science and technology (HUST) university. My future direction is to become a web developer</p>
+            </div>
+            <div class="objective">
+                <span class="content__information objective__underlined">Objective</span>
+                <p class="content__text">It can be tempting to over-polish a CV and make our educational qualifications or work history sound a little better than they are. If you're tempted to stretch the truth about your work history - don't. It will come back to haunt you.</p>
+            </div>
+            <div class="work_experience">
+                <span class="content__information work__underlined">Work experience</span>
+                <ul class=" work_experience-list content__text">
+                    <span class="work_experience-list-title">Here are some of my work experiences:</span>
+                    <li class="content__text">Currently, I am a student of electronics and telecommunications engineering at Hanoi university of science and technology (HUST) university</li>
+                    <li class="content__text">Experience working with html and css, java script and PHP</li>
+                    <li class="content__text">I plan to graduate in 2023</li>
+                    <li class="content__text">Currently, I am an intern at AvePoint</li>
+                </ul>
+            </div>
+            <div class="education">
+                <span class="content__information education__underlined">Education</span>
+                <p class="content__text">Look at the format of your curriculum vitae. Is there plenty of white space? Is it cluttered? Is your formatting consistent (bold, italic, spacing, etc.) and is the overall picture that your CV provides a professional and polished one?</p>
+                </div>
+        </section>
+    </div>
+
+    <div id="modal__overlay">
+        <div class="container__form" id="container1">
+                <form  class="cv__information" id="form-1">
+                    <i id="bottom-close" class="fa-solid fa-circle-xmark"></i>
+                    <h2 class="cv"><span class="cv__text">CV</span> Information</h2>
+                    <div class="block">
+                        <div class="block1">
+                            <div class="element">
+                                <label for="name" class="text">Fullname </label><br>
+                                <input type="text" id="name" class="input" value="" placeholder="Fullname" name="fullname">
+                                <span class="form__message form__message-align "></span>
+                            </div>
+                            <div class="element">
+                                <label for="email"class="text">Email</label><br>
+                                <input type="text" id="email" class="input" placeholder="Email" name="email">
+                                <span class="form__message form__message-align"></span>
+                            </div>
+                            <div class="element">
+                                <label for="address"class="text">Address</label><br>
+                                <input type="text" id="address" class="input" placeholder="Address" name="address">
+                                <span class="form__message form__message-align"></span>
+                            </div>
+                        </div>
+                        <div class="block2">
+                            <div class="element">
+                                <label for="user"class="text">Username</label><br>
+                                <input type="text" id="user" class="input" placeholder="Username" name="user">
+                                <span class="form__message form__message-align"></span>
+                            </div>
+                            <div class="element">
+                                <label for="phone"class="text">Phone Number</label><br>
+                                <input type="text" id="phone" class="input" placeholder="Phone Number" name="phone">
+                                <span class="form__message form__message-align"></span>
+                            </div>
+                            <div class="element">
+                                <label for="applied"class="text">Applied position</label><br>
+                                <input type="text" id="applied" class="input" placeholder="Applied position" name="applied">
+                                <span class="form__message form__message-align"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="element">
+                        <h2 class="gender">Gender</h2>
+                    <div class="gender__option">
+                        <div class="sex sex__male">
+                            <input id="male" type="radio" name="sex1" value="male" class="sex__radio">
+                            <label for="male" class="sex__text" >Male</label>
+                        </div>
+                        <div class="sex">
+                            <input id="female" type="radio" name="sex1" value="female" class="sex__radio">
+                            <label for="female" class="sex__text">Female</label>
+                        </div>
+                        <div class="sex">
+                            <input id="prf_not" type="radio" name="sex1" value="prefer not to say" class="sex__radio">
+                            <label for="prf_not" class="sex__text">Frefer not to say</label>
+                        </div>
+                    </div>
+                    <span class="form__message form__message-gender"></span>
+                    </div>
+                    <script src="../js/index.js"></script>
+                    <button  type="submit" name="" id="" class="submit" >Submit</button>
+                </form>
+        </div>
+    </div>
+    <script>
+        fetch("../../4.JS/json/data.json")
+        .then(function (response) {
+            console.log(response);
+            return response.json();
+        })
+        .then(function (data) {
+            console.log(data);
+            document.querySelector('.phone').innerHTML=data["phone"];
+            document.querySelector('.email').innerHTML=data["email"];
+            document.querySelector('.address').innerHTML=data["address"];
+            document.querySelector('.name').innerHTML=data["name"]
+            document.querySelector('.name__mobile').innerHTML=data["name"]
+            document.querySelector('.applied').innerHTML=data["applied"]
+            document.querySelector('.applied__mobile').innerHTML=data["applied"]
+
+        })
+        .catch(function (err) {
+            console.log(err);
+        });
+    </script>
+<script src="../../4.JS/js/cv_loadData.js"></script>
+<script src="../../4.JS/js/validate.js"></script>
+<script src="../../4.JS/js/index.js"></script>
+
+<script>
+    validator({
+    form: '#form-1',
+    errorSelecter: '.form__message',
+    formGroupSelector:'.element',
+    rules: [
+        validator.isRequired('#name'),
+        validator.isRequired('#email'),
+        validator.isEmail('#email'),
+        validator.isRequired('#address'),
+        validator.isRequired('#user'),
+        validator.isPhone('#phone'),
+        validator.isRequired('#applied'),
+        validator.checkRadio('input[name="sex1"]')
+    ],
+    onSubmit: function(data){
+        console.log(data);
+            var dataValues = Object.values(data);
+            var fullname=dataValues[0];
+            var email=dataValues[1];
+            var address=dataValues[2];
+            var username=dataValues[3];
+            var phone=dataValues[4];
+            var applied=dataValues[5];
+            var gender=dataValues[6];
+
+            var information = {};
+            information.name=fullname;
+            information.email=email;
+            information.address=address;
+            information.user=username;
+            information.phone=phone;
+            information.applied=applied;
+            information.gender=gender;
+            console.log(information)
+            download(JSON.stringify(information) , "data.json", "text/plain");
+    },
+    
+});
+    </script>
+    <script>
+        // Tạo các hằng qurySelector đến các thẻ 
+        const buttomSubmit = document.querySelector('.submit');
+        const buttomClose = document.querySelector('#bottom-close');
+        const buttomWriteLeft = document.querySelector('#bottom-write-left');
+        const buttomWriteRight = document.querySelector('#bottom-write-right');
+      // Hàm hiện form 
+        function showForm(){
+        document.getElementById('modal__overlay').style.display='flex';
+    }
+      // Hàm ẩn form
+    function hiddenForm() {
+        console.log('okk')
+        document.getElementById('modal__overlay').style.display='none';
+    }
+      // Thực hiện hàm ẩn form khi click buttom close trên form
+    buttomClose.addEventListener('click', hiddenForm)
+      //Thực hiện hàm hiện form khi click buttom trên CV
+    buttomWriteLeft.addEventListener('click', showForm)
+    buttomWriteRight.addEventListener('click', showForm)
+    </script>
+</body>
+</html>

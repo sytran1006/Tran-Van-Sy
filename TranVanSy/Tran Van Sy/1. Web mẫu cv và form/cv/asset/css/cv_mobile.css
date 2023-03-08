@@ -1,0 +1,159 @@
+@media screen and (min-width: 368px) and (max-width: 577px){
+    .container__cv{
+        flex-direction: column;
+        margin: 0;
+    }
+    .general__information-body{
+        display: flex;
+        justify-content: center;
+    }
+    .general__information-head{
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: baseline;
+    }
+    .detail__information{
+        margin-top: 39px;
+        margin-left: 2px;
+        padding-bottom: 20px;
+        width: 100%;
+        border: none;
+    }
+    .content{
+        display: none;
+    }
+    .social-account__list{
+        display: flex;
+        justify-content: space-between;
+    }
+    .general__information{
+        width: 100%;
+    }
+    .general__information-end{
+        display: none;
+    }
+    .fa-star {
+        margin-left: 15px;
+    }
+    .content__text{
+        margin-right: 32px;
+        margin-top: 18px;
+        margin-bottom: 33px;
+    }
+    .star{
+        margin-left: 43px;
+    }
+    .hobby__ctg{
+        margin-left: 73px;
+    }
+    .general__information-padding{
+        height: 25px;
+    }
+    .general__information-padding-end{
+        display: none;
+    }
+    .content__mobile-ipad{
+        display: block;
+        text-align: center;
+        font-size: 2.4rem;
+        font-weight: 600;
+        color: var(--fefefe-color);
+        margin-top: 26px;
+    }
+    .text__view{
+        font-size: 1.6rem;
+    }
+    .skill__text{
+        font-size: 1.4rem;
+    }
+    .general__information{
+        background-image: linear-gradient(to right,#555555 , #979292);
+    }
+    #bottom-write-left{
+        display: block;
+        }
+        #bottom-write-right{
+        display: none;
+        }
+}
+
+@media screen  and (max-width: 367px){
+    .container__cv{
+        flex-direction: column;
+        margin: 0;
+    }
+    .general__information-body{
+        display: flex;
+        justify-content: center;
+    }
+    .general__information-head{
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: baseline;
+    }
+    .detail__information{
+        margin-top: 39px;
+        margin-left: 2px;
+        padding-bottom: 20px;
+        width: 100%;
+        border: none;
+    }
+    .content{
+        display: none;
+    }
+    .social-account__list{
+        display: flex;
+        justify-content: space-between;
+    }
+    .general__information{
+        width: 100%;
+    }
+    .general__information-end{
+        display: none;
+    }
+    .fa-star {
+        margin-left: 5px;
+    }
+    .content__text{
+        margin-right: 32px;
+        margin-top: 18px;
+        margin-bottom: 33px;
+    }
+    .star{
+        margin-left: 43px;
+    }
+    .hobby__ctg{
+        margin-left: 73px;
+    }
+    .general__information-padding{
+        height: 25px;
+    }
+    .general__information-padding-end{
+        display: none;
+    }
+    .content__mobile-ipad{
+        display: block;
+        text-align: center;
+        font-size: 2.4rem;
+        font-weight: 600;
+        color: var(--fefefe-color);
+        margin-top: 26px;
+    }
+    .text__view{
+        font-size: 1rem;
+    }
+    .skill__text{
+        font-size: 1rem;
+    }
+    .general__information{
+        background-image: linear-gradient(to right,#555555 , #979292);
+    }
+    #bottom-write-left{
+        display: block;
+        }
+        #bottom-write-right{
+        display: none;
+        }
+}

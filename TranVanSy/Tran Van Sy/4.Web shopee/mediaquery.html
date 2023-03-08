@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--PC dùng file style1-->
+    <link rel="stylesheet"  href="./style1.css">
+    <!-- mobile dùng file style2-->
+    <link rel="stylesheet"   href="./style2.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script><!--đây là file polyfill giúp trình duyệt cũ dùng được media query viết ở đây để hiểu chứ thực ra là vòng if ở bên dưới-->
+    <!--[if lte IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <h1 class="mobile">mobile</h1>
+    <h1 class="tablet"> tablet</h1>
+    <h1 class="pc"> pc</h1>
+</body>
+</html>

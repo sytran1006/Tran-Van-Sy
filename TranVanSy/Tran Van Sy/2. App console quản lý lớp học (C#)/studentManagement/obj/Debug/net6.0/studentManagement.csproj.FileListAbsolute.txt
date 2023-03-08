@@ -1,0 +1,44 @@
+D:\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.exe
+D:\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.deps.json
+D:\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.runtimeconfig.json
+D:\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.dll
+D:\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.pdb
+D:\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.csproj.AssemblyReference.cache
+D:\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.AssemblyInfoInputs.cache
+D:\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.AssemblyInfo.cs
+D:\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.csproj.CoreCompileInputs.cache
+D:\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.dll
+D:\studentManagement\studentManagement\obj\Debug\net6.0\refint\studentManagement.dll
+D:\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.pdb
+D:\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.genruntimeconfig.cache
+D:\studentManagement\studentManagement\obj\Debug\net6.0\ref\studentManagement.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.exe
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.deps.json
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.runtimeconfig.json
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.pdb
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.Data.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.DatabaseService.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.Service.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.DatabaseService.pdb
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.Service.pdb
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\studentManagement.Data.pdb
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.csproj.AssemblyReference.cache
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.AssemblyInfoInputs.cache
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.AssemblyInfo.cs
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.csproj.CoreCompileInputs.cache
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.csproj.CopyComplete
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\obj\Debug\net6.0\refint\studentManagement.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.pdb
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\obj\Debug\net6.0\studentManagement.genruntimeconfig.cache
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\obj\Debug\net6.0\ref\studentManagement.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,151 @@
+.container__form{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    z-index: 1;
+    width: 49%;
+    margin: 2.5rem auto;
+    justify-content: center;
+    align-items: center;
+    /* min-height: 100vh; */
+    height: 510px;
+    border-radius: 5px;
+    background-image: linear-gradient(to top right, #faad7c, #f7cc68);
+    
+animation: modalFadeIn ease .5s
+}
+.cv__information{
+    width: 83%;
+    height: 444px;
+    border-radius: 6px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cv{
+    margin-left: 24px;
+    margin-top: 6px;
+    margin-bottom: 25px;
+    font-size: 2.4rem;
+    font-weight: 500;
+    color: var(--text-color);
+}
+.cv__text{
+    position: relative;
+}
+.cv__text::after{
+    content: "";
+    width: 100%;
+    height: 5px;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    border-radius: 10px;
+    background-image: linear-gradient(to top right, #faad7c, #f4ce7c);
+}
+
+.block{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.block1{
+    width: 40%;
+}
+.block2{
+    width: 40%;
+}
+.text{
+    display: block;
+    font-weight: 800;
+    font-size: 1.4rem;
+    color: #4a4949;
+    margin-bottom: -7px;
+}
+.input{
+    height: 30px; 
+    width: 100%;
+    border-radius: 8px;
+    border-color: #e3dbdb;
+    border-style: groove;
+    outline-color:var(--text-color);
+    
+}
+.gender__option{
+    display: flex;
+    justify-content: space-around;
+}
+.element{
+    display: block;
+    margin-bottom: 10px;
+}
+.gender{
+    margin-left: 30px;
+    color: var(--text-color);
+    font-size: 1.5rem;
+}
+.sex{
+    display: flex;
+}
+.sex__text{
+    color:#858585 ;
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-left: 5px;
+}
+.sex__radio{
+    border: 0;
+    width: 15px;
+}
+.submit{
+    margin-left: 30px;
+    width: 85%;
+    height: 32px;
+    text-align: center;
+    border-radius: 8px;
+    border: cornsilk;
+    margin-top:6px;
+    color:cornsilk ;
+    font-size: 1.4rem;
+    background-image: linear-gradient(to top right, #faad7c, #f7cc68);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.submit:hover{
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.option label{
+    font-weight: 200;
+}
+.form__message-align{
+    display: block;
+}
+/* .sex__male{
+    position: relative;
+} */
+.form__message-gender{
+    display: flex;
+    justify-content: center;
+}
+#bottom-close{
+    margin-left: 93%;
+    font-size: 16px;
+    margin-top: 4px;
+    cursor: pointer;
+}
+#bottom-close:hover{
+    color: red;
+}
+@keyframes modalFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

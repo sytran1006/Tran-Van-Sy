@@ -1,0 +1,17 @@
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\bin\Debug\net6.0\studentManagement.Service.deps.json
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\bin\Debug\net6.0\studentManagement.Service.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\bin\Debug\net6.0\studentManagement.Service.pdb
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\bin\Debug\net6.0\studentManagement.Data.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\bin\Debug\net6.0\studentManagement.DatabaseService.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\bin\Debug\net6.0\studentManagement.DatabaseService.pdb
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\bin\Debug\net6.0\studentManagement.Data.pdb
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\obj\Debug\net6.0\studentManagement.Service.csproj.AssemblyReference.cache
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\obj\Debug\net6.0\studentManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\obj\Debug\net6.0\studentManagement.Service.AssemblyInfoInputs.cache
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\obj\Debug\net6.0\studentManagement.Service.AssemblyInfo.cs
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\obj\Debug\net6.0\studentManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\obj\Debug\net6.0\studentManagement.Service.csproj.CopyComplete
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\obj\Debug\net6.0\studentManagement.Service.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\obj\Debug\net6.0\refint\studentManagement.Service.dll
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\obj\Debug\net6.0\studentManagement.Service.pdb
+C:\Users\james.tran\Desktop\homework15082022-team-young\7.C# basic\studentManagement\studentManagement.Service\obj\Debug\net6.0\ref\studentManagement.Service.dll

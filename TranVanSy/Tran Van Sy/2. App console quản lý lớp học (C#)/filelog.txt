@@ -1,0 +1,148 @@
+ - 9/23/2022 1:13:52 PM    Delete Student:    -Id: 2   Name: ha   -Email: ha@gmail.com   -Gender: Female   -PhoneNumber: 0123456789   -Score: 8   -ClassId: 1
+ - 9/23/2022 1:15:08 PM    Delete Student:    -Id: 2   Name: ha   -Email: ha@gmail.com   -Gender: Female   -PhoneNumber: 0123456789   -Score: 8   -ClassId: 1
+ - 9/23/2022 1:16:02 PM    Delete Student:    -Id: 1   Name: hieu   -Email: hieu@gmail.com   -Gender: Male   -PhoneNumber: 0123456789   -Score: 7   -ClassId: 1
+ - 9/23/2022 1:22:22 PM    Add Student:    -Id: 15   Name: nam-Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 1   -ClassId: 1
+ - 9/23/2022 1:23:34 PM    Add Student:    -Id: 15   Name: nam-Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365739194   -Score: 1   -ClassId: 1
+ - 9/23/2022 1:27:06 PM    Add Class:    -Id: 6   Name: duc-Email: 1   
+ - 9/23/2022 1:29:45 PM    UpDate Class:    -Id: 1   Name: duc-Email: 2   
+ - 9/23/2022 1:39:18 PM    Delete Class:    -Id: 1   Name: toan   -TeacherId: 1   
+ - 9/23/2022 1:40:52 PM    Delete Student:    -Id: 9   Name: sy   -Email: sy@gmail.com   -Gender: Male   -PhoneNumber: 0123456789   -Score: 6   -ClassId: 4
+ - 9/23/2022 1:41:14 PM    Delete Class:    -Id: 1   Name: toan   -TeacherId: 1   
+ - 9/23/2022 1:42:03 PM    Update Class:    -Id: 3   Name: dc   -TeacherId: 1   
+ - 9/23/2022 1:46:39 PM    Add teacher:    -Id: 5   Name: dc   
+ - 9/23/2022 1:47:06 PM    Update teacher:    -Id: 1   Name: yy   
+ - 9/23/2022 2:20:10 PM    Update Student:    -Id: 1   Name: hieu   -Email: hieu@gmail.com   -Gender: Male   -PhoneNumber: 0123456789   -Score: 7   -ClassId: 1
+ - 9/26/2022 5:12:44 PM    Update Student:    -Id: 2   Name: nam   -Email: ha@gmail.com   -Gender: Female   -PhoneNumber: 0123456789   -Score: 8   -ClassId: 1
+ - 9/26/2022 5:13:29 PM    Update Student:    -Id: 3   Name: hien   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738182   -Score: 1   -ClassId: 2
+ - 9/26/2022 5:14:22 PM    Update Student:    -Id: 4   Name: son   -Email: nam1@gmail.com   -Gender: Male   -PhoneNumber: 0123456789   -Score: 6   -ClassId: 2
+ - 9/26/2022 5:14:36 PM    Update Student:    -Id: 1   Name: hieu   -Email: hieu@gmail.com   -Gender: Male   -PhoneNumber: 0123456789   -Score: 7   -ClassId: 1
+ - 9/27/2022 2:45:48 AM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 036748281   -Score: 9   -ClassId: 1
+ - 9/27/2022 3:36:22 AM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 9   -ClassId: 9
+ - 9/27/2022 3:45:07 AM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 9   -ClassId: 1
+ - 9/27/2022 3:53:50 AM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 3   -ClassId: 2
+ - 9/27/2022 9:44:20 AM    Update Student:    -Id: 4   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 4   -ClassId: 1
+ - 9/27/2022 10:25:38 AM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365748184   -Score: 0   -ClassId: 1
+ - 9/27/2022 10:36:58 AM    Update Student:    -Id: 4   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 4   -ClassId: 4
+ - 9/27/2022 11:45:59 AM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 6   -ClassId: 2
+ - 9/27/2022 12:03:25 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 2   -ClassId: 4
+ - 9/27/2022 12:40:23 PM    Add teacher:    -Id: 5   Name: hoa   
+ - 9/27/2022 12:41:14 PM    Add Class:    -Id: 6   Name: we   -TeacherId: 4   
+ - 9/27/2022 12:53:58 PM    Update Class:    -Id: 1   Name: giaitich   -TeacherId: 2   
+ - 9/27/2022 2:17:44 PM    Update Student:    -Id: 2   Name: nam   -Email: ha@gmail.com   -Gender: Female   -PhoneNumber: 0123456789   -Score: 8   -ClassId: 1
+ - 9/27/2022 2:27:05 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 1   -ClassId: 1
+ - 9/27/2022 2:28:50 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 1   -ClassId: 1
+ - 9/27/2022 3:46:19 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 1   -ClassId: 1
+ - 9/27/2022 3:54:48 PM    Add teacher:    -Id: 5   Name: quit   
+ - 9/27/2022 4:37:10 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 1   -ClassId: 1
+ - 9/27/2022 4:38:12 PM    Add teacher:    -Id: 5   Name: nam   
+ - 9/27/2022 6:12:47 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 1   -ClassId: 1
+ - 9/27/2022 6:23:35 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 1   -ClassId: 1
+ - 9/27/2022 6:27:12 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 1   -ClassId: 1
+ - 9/27/2022 6:27:33 PM    Add Student:    -Id: 16   Name: hieu   -Email: hieu1@gmail.com   -Gender: Male   -PhoneNumber: 0365728184   -Score: 1   -ClassId: 1
+ - 10/3/2022 3:54:43 PM    Add Student:    -Id: 1021   Name: nguyen van fil   -Email: pil@gmail.com   -Gender: Male   -PhoneNumber: 045678291   -Score: 4   -ClassId: 2
+ - 10/3/2022 3:58:19 PM    Add Student:    -Id: 1022   Name: joy   -Email: joy@gmail.com   -Gender: Female   -PhoneNumber: 0946728184   -Score: 1   -ClassId: 1
+ - 10/3/2022 4:02:29 PM    Add Student:    -Id: 1022   Name: joy   -Email: joy@gmail.com   -Gender: Female   -PhoneNumber: 0567281845   -Score: 1   -ClassId: 1
+ - 10/3/2022 4:12:00 PM    Add Student:    -Id: 1022   Name: joy   -Email: joy@gmail.com   -Gender: Female   -PhoneNumber: 046581927   -Score: 1   -ClassId: 3
+ - 10/4/2022 10:37:23 AM    Update Student:    -Id: 23   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 046572846   -Score: 3   -ClassId: 1
+ - 10/4/2022 10:38:47 AM    Update Student:    -Id: 23   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 2   -ClassId: 1
+ - 10/4/2022 10:46:55 AM    Update Student:    -Id: 23   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738281   -Score: 3   -ClassId: 2
+ - 10/4/2022 10:49:07 AM    Update Student:    -Id: 23   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0678439194   -Score: 3   -ClassId: 2
+ - 10/4/2022 10:53:52 AM    Update Student:    -Id: 23   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0356748184   -Score: 3   -ClassId: 2
+ - 10/4/2022 11:04:58 AM    Update Student:    -Id: 23   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 036578281   -Score: 2   -ClassId: 3
+ - 10/4/2022 11:06:08 AM    Update Student:    -Id: 23   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 2   -ClassId: 3
+ - 10/4/2022 11:10:49 AM    Update Student:    -Id: 23   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0375829194   -Score: 2   -ClassId: 3
+ - 10/4/2022 11:34:50 AM    Delete Student:    -Id: 0   Name:    -Email:    -Gender:    -PhoneNumber:    -Score: 0   -ClassId: 0
+ - 10/4/2022 11:37:40 AM    Delete Student:    -Id: 0   Name:    -Email:    -Gender:    -PhoneNumber:    -Score: 0   -ClassId: 0
+ - 10/4/2022 12:15:09 PM    Update Student:    -Id: 45   Name: Orton Antonetti   -Email: 1234er@gmail.com   -Gender: Male   -PhoneNumber: 4708790637   -Score: 2.2   -ClassId: 3
+ - 10/4/2022 1:58:44 PM    Delete Student:    -Id: 0   Name:    -Email:    -Gender:    -PhoneNumber:    -Score: 0   -ClassId: 0
+ - 10/4/2022 2:13:56 PM    Update Student:    -Id: 3   Name: hhhhh   -Email: hhhhh@gmail.com   -Gender: Male   -PhoneNumber: 047586281   -Score: 2   -ClassId: 3
+ - 10/4/2022 2:20:40 PM    Update Student:    -Id: 56   Name: hhhhh   -Email: mail@hmail.com   -Gender: Male   -PhoneNumber: 0465739281   -Score: 3   -ClassId: 3
+ - 10/4/2022 2:26:40 PM    Update Student:    -Id: 78   Name: hhhhh   -Email: hh@gmail.com   -Gender: Male   -PhoneNumber: 056783923   -Score: 4   -ClassId: 3
+ - 10/4/2022 2:32:19 PM    Update Student:    -Id: 87   Name: hhhhh   -Email: dskeermor2e@cnet.com   -Gender: Female   -PhoneNumber: 8767463767   -Score: 6.7   -ClassId: 45
+ - 10/4/2022 2:38:40 PM    Update Student:    -Id: 67   Name: tran van sy   -Email: lpellew1u@biglobe.ne.jp   -Gender: Non-binary   -PhoneNumber: 5085035135   -Score: 3.5   -ClassId: 20
+ - 10/4/2022 3:16:03 PM    Update Student:    -Id: 34   Name: Mirelle Borsnall   -Email: mborsnallx@un.org   -Gender: Female   -PhoneNumber: 094756381   -Score: 1   -ClassId: 2
+ - 10/4/2022 3:20:11 PM    Delete Student:    -Id: 0   Name:    -Email:    -Gender:    -PhoneNumber:    -Score: 0   -ClassId: 0
+ - 10/4/2022 3:21:32 PM    Update Student:    -Id: 56   Name: hhhhhhh   -Email: ffff@gmail.com   -Gender: Male   -PhoneNumber: 0495876865   -Score: 1   -ClassId: 1
+ - 10/4/2022 3:51:52 PM    Update Student:    -Id: 34   Name:  Mirelle Borsnall    -Email: mborsnallx@un.org   -Gender: Female   -PhoneNumber: 094756381   -Score: 1   -ClassId: 45
+ - 10/4/2022 3:53:58 PM    Update Student:    -Id: 34   Name:  Mirelle Borsnall    -Email: mborsnallx@un.org   -Gender: Female   -PhoneNumber: 094756381   -Score: 1   -ClassId: 23
+ - 10/4/2022 3:56:07 PM    Update Student:    -Id: 34   Name:  Mirelle Borsnall    -Email: mborsnallx@un.org   -Gender: Female   -PhoneNumber: 094756381   -Score: 1   -ClassId: 43
+ - 10/4/2022 4:05:08 PM    Update Student:    -Id: 34   Name:  Mirelle Borsnall    -Email: mborsnallx@un.org   -Gender: Female   -PhoneNumber: 094756381   -Score: 1   -ClassId: 34
+ - 10/4/2022 4:06:25 PM    Update Student:    -Id: 34   Name:  Mirelle Borsnall    -Email: mborsnallx@un.org   -Gender: Female   -PhoneNumber: 094756381   -Score: 1   -ClassId: 34
+ - 10/4/2022 4:07:45 PM    Update Student:    -Id: 34   Name:  Mirelle Borsnall    -Email: mborsnallx@un.org   -Gender: Female   -PhoneNumber: 094756381   -Score: 1   -ClassId: 34
+ - 10/4/2022 4:10:14 PM    Update Student:    -Id: 0   Name:    -Email:    -Gender:    -PhoneNumber:    -Score: 0   -ClassId: 0
+ - 10/4/2022 4:11:16 PM    Update Student:    -Id: 34   Name:  Mirelle Borsnall    -Email: mborsnallx@un.org   -Gender: Female   -PhoneNumber: 094756381   -Score: 1   -ClassId: 34
+ - 10/4/2022 4:15:11 PM    Update Student:    -Id: 34   Name:  Mirelle Borsnall    -Email: mborsnallx@un.org   -Gender: Female   -PhoneNumber: 094756381   -Score: 1   -ClassId: 34
+ - 10/4/2022 4:16:06 PM    Update Student:    -Id: 34   Name:  Mirelle Borsnall    -Email: mborsnallx@un.org   -Gender: Female   -PhoneNumber: 094756381   -Score: 1   -ClassId: 34
+ - 10/4/2022 4:17:45 PM    Add Student:    -Id: 89   Name: nnnnn   -Email: nnnn@gmail.com   -Gender: Male   -PhoneNumber: 0576848184   -Score: 1   -ClassId: 34
+ - 10/4/2022 4:18:47 PM    Add Student:    -Id: 1090   Name: nnnnn   -Email: nnnnn@gmail.com   -Gender: Male   -PhoneNumber: 036578183   -Score: 4   -ClassId: 34
+ - 10/4/2022 4:21:24 PM    Add Student:    -Id: 1089   Name: tranvansy   -Email: syt@gmail.com   -Gender: Male   -PhoneNumber: 046578283   -Score: 1   -ClassId: 1
+ - 10/4/2022 5:15:37 PM    Add Class:    -Id: 53   Name: ffggff   -TeacherId: 1   
+ - 10/4/2022 5:19:19 PM    Add Class:    -Id: 53   Name: ffgggff   -TeacherId: 2   
+ - 10/4/2022 5:21:45 PM    Add Class:    -Id: 53   Name: rrtttrr   -TeacherId: 2   
+ - 10/4/2022 5:24:20 PM    Add Class:    -Id: 53   Name: hghghghg   -TeacherId: 2   
+ - 10/4/2022 5:25:44 PM    Add Class:    -Id: 53   Name: gggggg   -TeacherId: 2   
+ - 10/4/2022 5:27:38 PM    Add Class:    -Id: 63   Name: rrrrrrr   -TeacherId: 2   
+ - 10/4/2022 5:28:35 PM    Add Class:    -Id: 53   Name: eeeeeee   -TeacherId: 2   
+ - 10/4/2022 5:33:33 PM    Add Class:    -Id: 53   Name: ddddffff   -TeacherId: 2   
+ - 10/4/2022 5:39:06 PM    Add Class:    -Id: 54   Name: rrggggg   -TeacherId: 3   
+ - 10/4/2022 5:40:41 PM    Add Class:    -Id: 53   Name: ffffffff   -TeacherId: 2   
+ - 10/4/2022 5:41:26 PM    Add Class:    -Id: 53   Name: vbbvvbvbv   -TeacherId: 2   
+ - 10/4/2022 5:58:06 PM    Update Class:    -Id: 34   Name: hoa   -TeacherId: 63   
+ - 10/4/2022 5:58:35 PM    Update Class:    -Id: 34   Name: hoa   -TeacherId: 63   
+ - 10/4/2022 6:00:07 PM    Update Class:    -Id: 34   Name: hoa   -TeacherId: 63   
+ - 10/4/2022 10:57:12 PM    Update Class:    -Id: 1   Name: Luminex Corporation   -TeacherId: 18   
+ - 10/4/2022 11:31:55 PM    Add teacher:    -Id: 102   Name: sinh   
+ - 10/4/2022 11:32:31 PM    Add teacher:    -Id: 102   Name: sinh   
+ - 10/4/2022 11:33:00 PM    Add teacher:    -Id: 102   Name: sinh   
+ - 10/4/2022 11:54:48 PM    Add Student:    -Id: 1085   Name: sytranvan   -Email: sy@gmail.com   -Gender: Male   -PhoneNumber: 0574827174   -Score: 1   -ClassId: 50
+ - 10/5/2022 8:47:22 AM    Add Student:    -Id: 1056   Name: lethithuhuyen   -Email: huyenle@gmail.com   -Gender: Male   -PhoneNumber: 0465738184   -Score: 1   -ClassId: 3
+ - 10/5/2022 8:54:08 AM    Add Student:    -Id: 1055   Name: huy   -Email: huy@gmail.com   -Gender: Male   -PhoneNumber: 0365738182   -Score: 1   -ClassId: 1
+ - 10/5/2022 11:21:26 AM    Update Student:    -Id: 12   Name: Merry Marke   -Email: mmarkeb@ucla.edu   -Gender: Agender   -PhoneNumber: 8158352948   -Score: 9.3   -ClassId: 35
+ - 10/5/2022 11:26:26 AM    Update teacher:    -Id: 12   Name: Alysa Clackers   
+ - 10/5/2022 11:29:42 AM    Update teacher:    -Id: 12   Name: Alysa Clackers   
+ - 10/5/2022 9:48:25 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@123.com   -Gender: Male   -PhoneNumber: 0354627173   -Score: 1   -ClassId: 1
+ - 10/5/2022 9:50:13 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0364573912   -Score: 1   -ClassId: 1
+ - 10/5/2022 10:04:16 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 03664856372   -Score: 1   -ClassId: 1
+ - 10/5/2022 10:06:23 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0364572818   -Score: 1   -ClassId: 1
+ - 10/5/2022 10:12:04 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0354627173   -Score: 1   -ClassId: 1
+ - 10/5/2022 10:15:09 PM    Add Student:    -Id: 15   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0354627173   -Score: 1   -ClassId: 1
+ - 10/5/2022 10:16:24 PM    Add Student:    -Id: 996   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0354628183   -Score: 1   -ClassId: 1
+ - 10/5/2022 10:20:05 PM    Add Student:    -Id: 996   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0463728184   -Score: 1   -ClassId: 5
+ - 10/5/2022 10:28:34 PM    Add Student:    -Id: 996   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0465738182   -Score: 1   -ClassId: 1
+ - 10/5/2022 10:30:34 PM    Add Student:    -Id: 996   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 057684924   -Score: 1   -ClassId: 1
+ - 10/5/2022 10:31:55 PM    Add Student:    -Id: 996   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 078947271   -Score: 1   -ClassId: 40
+ - 10/5/2022 10:38:42 PM    Add Student:    -Id: 996   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0466748281   -Score: 1   -ClassId: 1
+ - 10/5/2022 10:52:39 PM    Add Student:    -Id: 982   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0475638184   -Score: 1   -ClassId: 1
+ - 10/5/2022 10:54:55 PM    Add Student:    -Id: 972   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0465738184   -Score: 1   -ClassId: 1
+ - 10/5/2022 10:58:48 PM    Add Student:    -Id: 990   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0476839195   -Score: 1   -ClassId: 1
+ - 10/5/2022 11:09:22 PM    Add Student:    -Id: 1001   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 1   -ClassId: 1
+ - 10/5/2022 11:22:08 PM    Update Student:    -Id: 1001   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 2   -ClassId: 1
+ - 10/5/2022 11:30:52 PM    Delete Student:    -Id: 1000   Name: Inge Heritege   -Email: iheritegerr@dropbox.com   -Gender: Female   -PhoneNumber: 8328652023   -Score: 3.6   -ClassId: 47
+ - 10/5/2022 11:31:19 PM    Delete Student:    -Id: 1001   Name:  nam    -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 2   -ClassId: 1
+ - 10/5/2022 11:34:52 PM    Add Student:    -Id: 1000   Name: nam   -Email: nam@gmail.com   -Gender: Male   -PhoneNumber: 0365738184   -Score: 1   -ClassId: 40
+ - 10/6/2022 12:23:40 AM    Delete teacher:    -Id: 1   Name: Gaspard How   
+ - 10/6/2022 12:24:24 AM    Delete teacher:    -Id: 5   Name: Bartholomeo Simister   
+ - 10/6/2022 1:06:50 AM    Delete Class:    -Id: 1   Name: Luminex Corporation   -TeacherId: 18   
+ - 10/6/2022 1:09:03 AM    Delete Class:    -Id: 1   Name: Luminex Corporation   -TeacherId: 18   
+ - 10/6/2022 1:10:26 AM    Delete Class:    -Id: 1   Name: Luminex Corporation   -TeacherId: 18   
+ - 10/6/2022 1:11:46 AM    Delete Class:    -Id: 1   Name: Luminex Corporation   -TeacherId: 18   
+ - 10/6/2022 1:14:43 AM    Delete Class:    -Id: 1   Name: Luminex Corporation   -TeacherId: 18   
+ - 10/6/2022 1:17:04 AM    Delete Class:    -Id: 1   Name: Luminex Corporation   -TeacherId: 18   
+ - 10/6/2022 1:39:32 AM    Add Student:    -Id: 1001   Name: nam   -Email: nam1@gmail.com   -Gender: Male   -PhoneNumber: 0475837164   -Score: 4   -ClassId: 12
+ - 10/6/2022 1:39:50 AM    Update Student:    -Id: 99   Name: Wolf Laurentin   -Email: wlaurentin2q@ehow.com   -Gender: Non-binary   -PhoneNumber: 4233957028   -Score: 6   -ClassId: 36
+ - 10/6/2022 1:40:32 AM    Delete Student:    -Id: 1   Name: Reid Creffield   -Email: rcreffield0@a8.net   -Gender: Male   -PhoneNumber: 8308477163   -Score: 1.5   -ClassId: 42
+ - 10/6/2022 1:41:12 AM    Delete Student:    -Id: 5   Name: Bella Clubley   -Email: bclubley4@purevolume.com   -Gender: Female   -PhoneNumber: 8465546409   -Score: 6.6   -ClassId: 34
+ - 10/6/2022 1:44:10 AM    Update Student:    -Id: 7   Name: Katha Tabbitt   -Email: ktabbitt6@ehow.com   -Gender: Female   -PhoneNumber: 6232907543   -Score: 2.1   -ClassId: 1
+ - 10/6/2022 1:46:36 AM    Add teacher:    -Id: 101   Name: hoa   
+ - 10/6/2022 1:49:31 AM    Delete teacher:    -Id: 101   Name: hoa   
+ - 10/6/2022 1:49:58 AM    Update teacher:    -Id: 91   Name: Niki Peddowe   
+ - 10/6/2022 2:05:52 AM    Add Class:    -Id: 51   Name: hoa   -TeacherId: 12   
+ - 10/6/2022 2:10:36 AM    Add Class:    -Id: 51   Name: hoa   -TeacherId: 12   
+ - 10/6/2022 2:12:20 AM    Add Class:    -Id: 51   Name: hoa   -TeacherId: 12   
+ - 10/6/2022 3:06:09 AM    Update Class:    -Id: 1   Name: Luminex Corporation   -TeacherId: 18   
+ - 10/6/2022 3:08:19 AM    Update Class:    -Id: 1   Name: Luminex Corporation   -TeacherId: 18   
+ - 10/6/2022 3:08:47 AM    Update Class:    -Id: 4   Name: Sanderson Farms, Inc.   -TeacherId: 4   
+ - 10/6/2022 3:09:04 AM    Delete Class:    -Id: 51   Name: hoa   -TeacherId: 12   
+ - 10/6/2022 3:09:38 AM    Delete Class:    -Id: 1   Name: Luminex Corporation   -TeacherId: 18   
+ - 10/6/2022 5:00:30 AM    Update Student:    -Id: 56   Name: Sapphire Gumley   -Email: sgumley1j@last.fm   -Gender: Female   -PhoneNumber: 4934799783   -Score: 1.9   -ClassId: 34
+ - 10/6/2022 5:14:25 AM    Update Student:    -Id: 34   Name:       Mirelle Borsnall         -Email: mborsnallx@un.org   -Gender: Female   -PhoneNumber: 1216507539   -Score: 7.4   -ClassId: 17

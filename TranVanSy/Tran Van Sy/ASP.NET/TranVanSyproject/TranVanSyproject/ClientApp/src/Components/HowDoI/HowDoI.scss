@@ -1,0 +1,133 @@
+.wrraperHowDoI{
+    .wrraperHowDoI__title{
+        width: 167px;
+        height: 32px;
+        font-size: 24px;
+        font-weight: 600;
+        color: #444444;
+        margin-bottom: 18px;
+        margin-top: 28px;
+    }
+}
+.howDoIFind{
+    //width: 388px;
+    width: 93%.26%;
+    height: 40px; 
+        color: #999999;
+        background-color: #FFFFFF;  
+        border: 1px solid #707070;
+        display: flex;
+    .howDoIFind__input{
+        width: 80%;
+        border: 0;
+        height: 19px;
+        outline: none;
+        font-size: 14px;
+        margin: 9px 9px 9px 0;
+    }
+    .howDoIFind__icon-find{
+        width: 16px;
+        height: 16px;
+        margin: 13px 7px 13px 13px;
+    }
+}
+.wrraper__view{
+    display: flex;
+    margin-top: 14px;
+    width: 86px;
+    cursor: pointer;
+    // margin-bottom: 22px;
+    .wrraper__view-text{
+        font-size: 14px;
+        font-weight: 400;
+        color: #0074bd;
+        margin-right: 6px;
+    }
+}
+.howDoItem{
+    .click{
+        background-color: #4ac49a;
+        display: flex;
+        //width: 388px;
+        width: 93.26%;
+        height: 40px;
+        margin-top: 5px;
+        .howDoI__icon-question{
+            width: 15px;
+            height: 15px;
+            object-fit: cover;
+            margin: 13px;
+        }
+        .howDoI__question{
+            width: 93.26%;
+            margin:13px 13px 13px 0 ;
+            font-size: 14px;
+            line-height: 14px;
+            color: #FFFFFF;
+        }
+    }
+    .click:hover{
+        cursor: pointer;
+    }
+    .howDoIItem__content{
+        display: flex;
+        //width: 388px;
+        width: 93.26%;
+        height: 40px;
+        margin-top: 5px;
+        background-color: #636363;
+        .howDoI__icon-question{
+            width: 15px;
+            height: 15px;
+            object-fit: cover;
+            margin: 13px;
+        }
+        .howDoI__question{
+            margin:13px 13px 13px 0 ;
+            font-size: 14px;
+            line-height: 14px;
+            color: #FFFFFF;
+        }
+    }
+    .howDoIItem__content:hover{
+        cursor: pointer;
+        background-color: #636363;
+    }
+    .howDoI__answer-wrrap{
+        width: 93.26%;
+        display: flex;
+        background-color: #636363;
+        .howDoI__answer-a{
+            width: 16px;
+            height: 17px;
+            font-size: 14px;
+            color: #FFFFFF;
+            margin: 13px;
+        }
+        .howDoI__answer{
+            font-size: 14px;
+            color: #FFFFFF;
+            margin: 13px;
+        }
+    }
+    .howDoI__answer-wrrap:hover{
+        cursor: pointer;
+    }
+}
+
+@media only screen  and (max-width:819px){
+    .howDoIFind{
+        width: 100%;
+    }
+    .howDoItem{
+        .howDoIItem__content{
+            width: 100%;
+        }
+        .click{
+            width: 100%;
+        }
+        .howDoI__answer-wrrap{
+            width: 100%;
+        }
+    }
+}

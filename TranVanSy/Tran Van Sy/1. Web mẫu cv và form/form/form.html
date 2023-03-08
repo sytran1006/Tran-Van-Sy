@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="./asset/css/form_main.css">
+    <link rel="stylesheet" href="./asset/css/form_base.css">
+    <link rel="stylesheet" href="./asset/css/form_mobile.css">
+    <!-- <link rel="stylesheet" href="./asset/css/tablet.css">  -->
+    <link rel="stylesheet" href="./asset/font/fontawesome-free-6.1.2-web/css/all.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap">
+    <link rel="icon" type="image/x-icon" href="https://tse2.mm.bing.net/th?q=Ave+Point+Icon&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-SG&cc=SG&setlang=en&adlt=strict&t=1&mw=247">
+    <!-- <base href="https://www.w3schools.com/" target="_blank"> -->
+    <title>Form</title>
+</head>
+<body>
+    <div class="container__form" id="container1">
+        <!-- <div class="form"> -->
+            <form  class="cv__information" id="form-1">
+                <h2 class="cv"><span class="cv__text">CV</span> Information</h2>
+                <div class="block">
+                    <div class="block1">
+                        <div class="element">
+                            <label for="name" class="text">Fullname </label><br>
+                            <input type="text" id="name" class="input" value="" placeholder="Fullname" name="fullname">
+                            <span class="form__message form__message-align "></span>
+                        </div>
+                        <div class="element">
+                            <label for="email"class="text">Email</label><br>
+                            <input type="text" id="email" class="input" placeholder="Email" name="email">
+                            <span class="form__message form__message-align"></span>
+                        </div>
+                        <div class="element">
+                            <label for="address"class="text">Address</label><br>
+                            <input type="text" id="address" class="input" placeholder="Address" name="address">
+                            <span class="form__message form__message-align"></span>
+                        </div>
+                    </div>
+                    <div class="block2">
+                        <div class="element">
+                            <label for="user"class="text">Username</label><br>
+                            <input type="text" id="user" class="input" placeholder="Username" name="user">
+                            <span class="form__message form__message-align"></span>
+                        </div>
+                        <div class="element">
+                            <label for="phone"class="text">Phone Number</label><br>
+                            <input type="text" id="phone" class="input" placeholder="Phone Number" name="phone">
+                            <span class="form__message form__message-align"></span>
+                        </div>
+                        <div class="element">
+                            <label for="applied"class="text">Applied position</label><br>
+                            <input type="text" id="applied" class="input" placeholder="Applied position" name="applied">
+                            <span class="form__message form__message-align"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="element">
+                    <h2 class="gender">Gender</h2>
+                <div class="gender__option">
+                    <div class="sex sex__male">
+                        <input id="male" type="radio" name="sex1" value="male" class="sex__radio">
+                        <label for="male" class="sex__text" >Male</label>
+                    </div>
+                    <div class="sex">
+                        <input id="female" type="radio" name="sex1" value="female" class="sex__radio">
+                        <label for="female" class="sex__text">Female</label>
+                    </div>
+                    <div class="sex">
+                        <input id="prf_not" type="radio" name="sex1" value="prefer" class="sex__radio">
+                        <label for="prf_not" class="sex__text">Frefer not to say</label>
+                    </div>
+                </div>
+                <span class="form__message form__message-gender"></span>
+                </div>
+                <script src="../js/index.js"></script>
+                <button  type="submit" name="" id="" class="submit" >Submit</button>
+                <!-- <input src="../" type="submit" name="" id="" class="submit"> -->
+            </form>
+        <!-- </div> -->
+    </div>
+    <script src="../../4.JS/js/valiDate.js"></script>
+    <script src="../../4.JS/js/index.js"></script>
+
+    <script>
+    validator({
+    form: '#form-1',
+    errorSelecter: '.form__message',
+    formGroupSelector:'.element',
+    rules: [
+        validator.isRequired('#name'),
+        validator.isRequired('#email'),
+        validator.isEmail('#email'),
+        validator.isRequired('#address'),
+        validator.isRequired('#user'),
+        validator.isPhone('#phone'),
+        validator.isRequired('#applied'),
+        validator.checkRadio('input[name="sex1"]')
+    ],
+    onSubmit: function(data){
+        console.log(data);
+            var dataValues = Object.values(data);
+            var fullname=dataValues[0];
+            var email=dataValues[1];
+            var address=dataValues[2];
+            var username=dataValues[3];
+            var phone=dataValues[4];
+            var applied=dataValues[5];
+            var gender=dataValues[6];
+
+            var information = {};
+            information.name=fullname;
+            information.email=email;
+            information.address=address;
+            information.user=username;
+            information.phone=phone;
+            information.applied=applied;
+            console.log(information)
+            download(JSON.stringify(information) , "data.json", "text/plain");
+    },
+    
+});
+    </script>
+</body>
+</html>

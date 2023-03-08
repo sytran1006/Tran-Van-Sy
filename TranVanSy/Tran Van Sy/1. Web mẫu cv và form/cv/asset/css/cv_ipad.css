@@ -1,0 +1,94 @@
+@media screen and ( min-width: 578px) and (max-width: 900px){
+    .container__cv{
+        flex-direction: column;
+        margin: 10rem auto;
+    }
+    .general__information-body{
+        display: flex;
+        justify-content: center;
+        padding-top: 63px;
+    }
+    .general__information-head{
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: baseline;
+    }
+    .detail__information{
+        margin-top: 39px;
+        margin-left: 14px;
+        padding-bottom: 20px;
+        width: 100%;
+        border: none;
+    }
+    .content__text{
+        margin-right: 32px;
+        margin-top: 18px;
+        margin-bottom: 33px;
+    }
+    .content{
+        display: none;
+    }
+    .general__information{
+        width: 100%;
+    }
+    .general__information-end{
+        display: none;
+    }
+    .general__information-padding{
+        height: 25px;
+    }
+    .general__information-padding-end{
+        display: none;
+    }
+    .content__mobile-ipad{
+        display: block;
+        text-align: center;
+        font-size: 2.4rem;
+        font-weight: 600;
+        color: var(--fefefe-color);
+        margin-top: 26px;
+    }
+    .general__information-body-ipad-left{
+        display: flex;
+        align-items:baseline;
+        justify-content: center;
+    }
+    .general__information-body-ipad-right{
+        display: flex;
+        align-items:baseline;
+        justify-content:center;
+    }
+    .general__information-body{
+        display: block;
+        height: 450px;
+    }
+    .social-account{
+        margin-left: 41px;
+    }
+    .hobby{
+        margin-left: 113px;
+    }
+    .social-account__list{
+        display: flex;
+        justify-content: space-between;
+    }
+    .social-account__list-mobile{
+        margin-left: 12px;
+    }
+    .skill{
+        margin-left: -11px;
+    }
+    #bottom-write-left{
+        margin-left: 10px;
+    }
+    .general__information{
+        background-image: linear-gradient(to right,#555555 , #979292);
+    }
+    #bottom-write-left{
+        display: block;
+        }
+        #bottom-write-right{
+        display: none;
+        }
+}

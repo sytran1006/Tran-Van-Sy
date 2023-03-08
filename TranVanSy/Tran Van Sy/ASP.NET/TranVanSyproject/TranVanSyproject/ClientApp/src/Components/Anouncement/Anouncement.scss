@@ -1,0 +1,260 @@
+.props__item{
+    margin-bottom: 24px;
+    .props__item-wrrap{
+        display: flex;
+        width: 100%;
+        .props__item-wrrap-left{
+            width: 164px;
+            height: 112px;
+            object-position: center;
+            object-fit: cover;
+            border-radius: 2px;
+        }
+        .props__item-wrrap-right{
+            margin-left: 12px;
+            width: 78%;
+            .title{
+                font-size:16px;
+                line-height: 21px;
+                font-weight: 500;
+            }
+            .introduction{
+                //width: 636px;
+                width: 100%;
+                font-size: 14px;
+                margin-top: 8px;
+            }
+            .dateAndResource{
+                display: flex;
+                margin-top: 15px;
+                .iconDate{
+                    width: 14px;
+                    height: 16px;
+                    margin-top: 4px;
+                }
+                .date{
+                    font-size: 14px;
+                    margin-left: 7px;
+                    line-height: 26px;
+                }
+                .resource{
+                    font-size: 13px;
+                    background-color: #E4E6E8 ;
+                    border-radius: 14px;
+                    width: 145px;
+                    height: 26px;
+                    margin-left: 18px;
+                    text-align: center;
+                    line-height: 26px;
+                }
+            }
+        }  
+        .props__item-wrrap-icon{
+            margin-top: 11px;
+            .update{
+                margin-bottom: 10px;
+                cursor: pointer;
+            }
+            .delete{
+                cursor: pointer;
+            }
+        }     
+    }
+}
+.props__item:last-child{
+    margin-bottom: 0;
+}
+.wrraper {
+    width: 100%;
+    margin-bottom: 28px;
+
+    .wrraper__title {
+        width: 167px;
+        height: 32px;
+        font-size: 24px;
+        font-weight: 600;
+        color: #444444;
+        margin-bottom: 18px;
+        display: flex;
+        .wrraper__title-icon{
+            margin-left: 10px;
+            margin-top:3px;
+            cursor:pointer;
+        }
+    }
+
+    .wrraper__view {
+        display: flex;
+        margin-top: 14px;
+        width: 86px;
+        cursor: pointer;
+        // margin-bottom: 22px;
+        .wrraper__view-text {
+            font-size: 14px;
+            font-weight: 400;
+            color: #0074bd;
+            margin-right: 6px;
+        }
+    }
+}
+.modal{
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: rgba(0,0,0,0.3);
+    .modal__form{
+        width: 40%;
+        margin: auto;
+        background-color: white;
+        border-radius: 4px;
+        form{
+            .form__title{
+                margin-top: 12px;
+                margin-left: 25px;
+                margin-right: 15px;
+                margin-bottom: 19px;
+            }
+            .form__wrrap{
+                display: flex;
+                justify-content: space-around;
+                .form__wrrap-left{
+                    width: 40%;
+                    input{
+                        width: 100%;
+                        margin-top: 8px;
+                        margin-bottom: 12px;
+                        height: 22px;
+                    }
+                }
+                .form__wrrap-right{
+                    width: 40%;
+                    input{
+                        width: 100%;
+                        margin-top: 8px;
+                        margin-bottom: 12px;
+                        height: 22px;
+                    }
+                }
+            }
+            .form__bottom{
+                margin-bottom: 22px;
+                margin-top: 12px;
+                display: flex;
+                justify-content: flex-end;
+                .form__bottom-close{
+                    margin-right: 18px;
+                    margin-left: 12px;
+                    width: 70px;
+                    height: 25px;
+                    cursor: pointer;
+                    background-color:#ff0000 ;
+                    border: none;
+                    color: white;
+                }
+                .form__bottom-add{
+                    width: 70px;
+                    height: 25px;
+                    cursor: pointer;
+                    background-color: #0074bd;
+                    border: none;
+                    color: white;
+                }
+            }
+        }
+    }
+}
+@media only screen and (min-width:820px) and (max-width:1000px){
+    .props__item{
+    .props__item-wrrap{
+    .props__item-wrrap-right{
+        .introduction{
+            font-size: 13px;
+        }
+        .title{
+            line-height: 9px;
+        }
+        .dateAndResource{
+            margin-top: 4px;
+        }
+    }
+
+}}
+.wrraper{
+    .wrraper__title{
+        font-size: 22px;
+        margin-bottom: 15px;
+}
+    }
+    .props__item{
+        .props__item-wrrap{
+            .props__item-wrrap-right{
+                 .dateAndResource{
+                    .resource{
+                        width: 122px;
+                        font-size: 12px;
+                        height: 27px;
+                    }
+                }
+            }
+        }
+    }
+}
+@media only screen and (min-width:427px) and (max-width:819px) {
+    .props__item{
+        .props__item-wrrap{
+        .props__item-wrrap-right{
+            .introduction{
+                font-size: 13px;
+            }
+            .title{
+                line-height: 9px;
+            }
+            .dateAndResource{
+                margin-top: 4px;
+            }
+        }
+    
+    }}
+    .wrraper{
+        .wrraper__title{
+            font-size: 22px;
+            margin-bottom: 15px;
+    }
+        }
+        .props__item{
+            .props__item-wrrap{
+                .props__item-wrrap-right{
+                     .dateAndResource{
+                        .resource{
+                            width: 122px;
+                            font-size: 12px;
+                            height: 27px;
+                        }
+                    }
+                }
+            }
+        }
+}
+@media only screen and (max-width:426px){
+    .props__item{
+        margin-bottom: 24px;
+        .props__item-wrrap{
+            display: block;
+            .props__item-wrrap-left{
+                width: 100%;
+                height: 100%;
+            }
+            .props__item-wrrap-right{
+                width: 98%;
+                .title{
+                    margin-top: 16px;
+                }
+            }
+        }
+    }
+}

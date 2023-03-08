@@ -1,0 +1,25 @@
+
+.mobile, .tablet, .pc{
+    margin: auto;
+    font-size: 100px;
+    color: #000;
+    display: none;
+}
+/*mobile:width< 740px*/
+@media only screen and (max-width: 46.1875em) {
+    .mobile{
+        display: block;
+    }
+}
+/*tablet:width>= 740px and width<1024px*/
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+    .tablet{
+        display: block;
+    }
+}
+/*pc:width>1024px*/
+@media only screen and (min-width: 64em) {
+    .pc{
+        display: block;
+    }
+}
